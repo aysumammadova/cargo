@@ -22,6 +22,8 @@ const sign_now = () =>{
     sign_form.classList.remove("hidden")
     biznes_form.classList.add("hidden")
     mainup.classList.add("hidden")
+    login_form.classList.add("hidden")
+
 
 }
 
